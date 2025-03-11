@@ -13,16 +13,20 @@ IPTU (Property Tax)
 ISS (Service Tax)
 Transferências Correntes
 And more...
+
 🔨 Methodology
 Data Collection: API download from Joinville’s portal
 Data Preprocessing: Cleaning, aggregating monthly revenue
 Exploratory Data Analysis (EDA): Trends, seasonality
+
 Forecast Modeling with Prophet:
 Total revenue
 Per origin revenue
+
 Validation:
 Compared 2024 predictions to real data
 MAPE ~10.6% for total revenue
+
 2025 Forecasting:
 Predicted 2025 revenue trends
 📈 Forecast Results
