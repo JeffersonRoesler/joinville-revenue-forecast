@@ -25,6 +25,7 @@ Per origin revenue
 
 Validation:
 Compared 2024 predictions to real data
+
 MAPE ~10.6% for total revenue
 
 2025 Forecasting:
